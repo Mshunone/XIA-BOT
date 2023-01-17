@@ -95,19 +95,19 @@ global.stickauth = `©Saxia˘Botz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
+global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.jb = `📆 TANGGAL : ${date}\n⌚ JAM ${wib}`
-global.bottime = `T I M E : ${wktuwib}`
+global.bottime = `⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
+global.intro = 'https://telegra.ph/file/0cdbd37b45b1bc370463f.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://bit.ly/SaxiaShop'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -117,8 +117,8 @@ global.pgopay = '08XXXXXXXXXX'
 global.plinkaja = '-' //link aja
 global.ppulsa = '08XXXXXXXXXX'
 global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.psaweria = 'https://bit.ly/SaxiaShop'
+global.donasikabul = '----',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -142,24 +142,24 @@ global.cmenuh = '』––––––' //header
 global.cmenub = '┊✎ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
-global.pmenus = '✎'
+global.pmenus = '𖤍'
 global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
-global.htjava = '⫹⫺'    //hiasan Doang :v
+global.htjava = '❖'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.md = 'tunggu sebentar kak'
-global.eror = 'Mohon Maaf Server Kami Sedang Error!'
+global.stiker_wait = '「 Wait 99% 」Loading...'
+global.wait = '「 Wait 99% 」Loading...'
+global.md = 'tunggu sebentar..'
+global.eror = '「 ``404 error`` 」'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
 global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
-global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
+global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!! >.<"
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.multiplier = 69 // The higher, The harder levelup 
@@ -293,16 +293,16 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/0cdbd37b45b1bc370463f.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0cdbd37b45b1bc370463f.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' 
-global.imagebot = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
+global.thumb = 'https://telegra.ph/file/0cdbd37b45b1bc370463f.jpg' 
+global.imagebot = 'https://telegra.ph/file/0cdbd37b45b1bc370463f.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
-global.thumbs = ['https://telegra.ph/file/2e8d2ef0926e848626a43.jpg']
+global.thumbs = ['https://telegra.ph/file/0cdbd37b45b1bc370463f.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -344,9 +344,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6282124690625'
+global.urlnya = "https://www.instagram.com/m.rxcl_"
+global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ 2'
+global.phn = '6283805685278'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
